@@ -28,8 +28,8 @@ body{
 }
 
 .planet{
-    width:75px;
-    height:75px;
+    width:72px;
+    height:72px;
     background-color: steelblue;
     border-radius: 50%;
     position:absolute;
@@ -59,8 +59,8 @@ body{
   transform:translate(-50%,-50%);
 }
 .moon{
-    width:35px;
-    height:35px;
+    width:32px;
+    height:32px;
     border-radius: 50%;
     background-color: rgb(252, 245, 245);
     position:absolute;
@@ -75,3 +75,4 @@ body{
         transform: translate(-50% , -50%) rotate(360deg);
     }
 }
+
